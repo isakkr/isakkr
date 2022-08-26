@@ -1,4 +1,4 @@
-### Know is Bran (https://cdn.discordapp.com/emojis/998724122899120138.webp?size=96&quality=lossless)
+### Know is Bran ![know is bran](https://cdn.discordapp.com/emojis/998724122899120138.webp?size=96&quality=lossless)
 
 <!--
 **isakkr/isakkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
